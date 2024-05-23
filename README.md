@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>DNS Requests logging and filtering</b>
-  - [Praciting DS & Algos in Python](https://github.com/twist-code/Pi-Hole/blob/main/README.md)
+  - [Pi-Hole](https://github.com/twist-code/Pi-Hole/blob/main/README.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
