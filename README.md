@@ -1,6 +1,6 @@
 <h1>Hello, I'm Nick! </h1>
 
-<a href="https://www.linkedin.com/in/nick-trésor-iradukunda-3163901b7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nick-trésor-iradukunda-3163901b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
