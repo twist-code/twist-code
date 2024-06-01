@@ -1,15 +1,13 @@
- <h1>Hello, I'm Nick! </h1>
+ <h1>Hello, I'm Nick Tresor IRADUKUNDA! </h1>
 
 <a href="https://www.linkedin.com/in/nick-trésor-iradukunda-3163901b7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a dedicated and highly skilled cybersecurity specialist from Rwanda. With a strong academic background and extensive hands-on experience in cybersecurity, I am committed to protecting digital assets and ensuring robust IT security frameworks. This portfolio showcases my projects, skills, and contributions to the field of cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a dedicated and detail-oriented cybersecurity professional with a strong foundation in network security, ethical hacking, and incident response, I aim to leverage my skills and experience as a SOC Analyst. My goal is to contribute to a resilient and secure IT environment, continuously improving threat detection and response capabilities.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -18,13 +16,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <b>Automation (Patch management, Updates, and Processess)</b>
   - [Ansible](https://github.com/twist-code/ansible/blob/main/README.md) 
 - <b>Penetration testing</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Hacking Metasploitable](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [BeEF: Browser Exploitation framework](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+- <b>Security Operations Center</b>
+  - [SOC Automation Lab (Ongoing)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Malware detection](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
