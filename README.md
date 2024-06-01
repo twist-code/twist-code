@@ -16,16 +16,12 @@ As a dedicated and detail-oriented cybersecurity professional with a strong foun
 - <b>Automation (Patch management, Updates, and Processess)</b>
   - [Ansible](https://github.com/twist-code/ansible/blob/main/README.md) 
 - <b>Penetration testing</b>
-  - [Hacking Metasploitable](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [MITM Attack with ettercap](https://github.com/joshmadakor1/Sentinel-Lab)
   - [BeEF: Browser Exploitation framework](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Hacking Metasploitable](https://github.com/joshmadakor1/AD_PS)
 - <b>Security Operations Center</b>
   - [SOC Automation Lab (Ongoing)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Malware detection](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
