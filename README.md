@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/nick-trésor-iradukunda-3163901b7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
-I am a dedicated and highly skilled cybersecurity specialist from Rwanda. With a strong academic background and extensive hands-on experience in cybersecurity, I am committed to protecting digital assets and ensuring robust IT security frameworks. This portfolio showcases my projects, skills, and contributions to the field of cybersecurity.
+I am a dedicated and highly skilled cybersecurity specialist from Rwanda. With a strong academic background and extensive hands-on experience in cybersecurity, I am committed to protecting digital assets and ensuring robust IT security frameworks. This portfolio showcases my projects, skills, experience and contributions to the field of cybersecurity.
 
 ## Objective
 
@@ -37,6 +37,32 @@ As a dedicated and detail-oriented cybersecurity professional with a strong foun
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## WORK EXPERIENCE
+<b><u>Professional in charge of Cybersecurity</u></b> - RRA (Rwanda Revenue Authority [ 20/08/2023 - Current ]<br> <br>
+• Set up patch MSs to update applications and regularly monitor the patching MS to ensure RRA systems are well secured. <br>
+• Part of a proactive incident response team to ensure that IRP is being tested for and resolving system vulnerabilities. <br>
+• Ensure that all users receive periodic IT security awareness briefing. <br>
+• Constant audits to ensure security practices are compliant, deploy endpoint detection & prevention tools to halt malicious hacks. <br>
+• Set up and implement user access controls and identity access management systems, <br>
+• Monitor network and application performance to identify irregular activities, Support the security part of RRA VMware infrastructure or any other virtualized infrastructure. <br><br>
+<b><u>Information & Cybersecurity Officer</u></b>
+I&M Bank Rwanda PLC [ 01/04/2023 – 20/08/2023 ]<br><br>
+• Develop and Provide awareness trainings to staff. Monitor computer networks for security issues and investigate breaches.<br>
+• Work with teams to perform tests and uncover network vulnerabilities, documenting breaches and assessing the damage caused.<br>
+• Installing security measures to protect systems and information infrastructure, including firewalls and data encryption programs.<br>
+• Perform penetration testing / vulnerability assessments and fix detected vulnerabilities to maintain a high security standard.<br><br>
+<b><u>MS Automated Operations Engineer</u></b>
+ERICSSON RWANDA [ 01/11/2021 – 31/03/2023 ]<br><br>
+• Responsible for managing and monitoring the network outages, by ensuring timely detection of any fault occurring.<br>
+• Perform day-to-day Network Operations procedures within the network nodes. <br>
+• Provided user trainings and IT support. Made escalations, follow up to make sure issues/tickets are resolved within SLA agreement. <br>
+• Attend to incoming calls through NOC Support lines and offer support to the field engineers during their actions <br>
+• Basic troubleshooting and initial configuration of network devices. <br><br>
+<b><u>ICT network engineer</u></b>
+MTN Rwanda [ 25/09/2020 – 31/10/2021 ] <br><br>
+• Using Network management tools to manage and monitor network outages, by ensuring timely detection of any fault
+occurring and perform constant health checks, day-to-day Network Operations procedures within the network nodes.<br><br>
 
 <h2> 🤳 Connect with me:</h2>
 
