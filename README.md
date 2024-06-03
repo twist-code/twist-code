@@ -18,7 +18,7 @@ As a dedicated and detail-oriented cybersecurity professional with a strong foun
 - <b>Penetration testing</b>
   - [MITM Attack with ettercap](https://github.com/twist-code/Ettercap/blob/main/README.md)
   - [BeEF: Browser Exploitation framework](https://github.com/twist-code/BeEF-Browser-Exploitation-framework/blob/main/README.md)
-  - [Hacking Metasploitable](https://github.com/twist-code/Metasploitable)
+  - [Hacking Metasploitable](https://github.com/twist-code/Metasploitable/edit/main/README.md)
 - <b>Security Operations Center</b>
   - [SOC Automation Lab (Ongoing)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Malware detection](https://github.com/joshmadakor1/DecrypterPOC)
