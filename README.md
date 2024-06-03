@@ -46,21 +46,19 @@ As a dedicated and detail-oriented cybersecurity professional with a strong foun
 • Constant audits to ensure security practices are compliant, deploy endpoint detection & prevention tools to halt malicious hacks. <br>
 • Set up and implement user access controls and identity access management systems, <br>
 • Monitor network and application performance to identify irregular activities, Support the security part of RRA VMware infrastructure or any other virtualized infrastructure. <br><br>
-<b><u>Information & Cybersecurity Officer</u></b>
+<b><u>Information & Cybersecurity Officer</u></b> -
 I&M Bank Rwanda PLC [ 01/04/2023 – 20/08/2023 ]<br><br>
 • Develop and Provide awareness trainings to staff. Monitor computer networks for security issues and investigate breaches.<br>
 • Work with teams to perform tests and uncover network vulnerabilities, documenting breaches and assessing the damage caused.<br>
 • Installing security measures to protect systems and information infrastructure, including firewalls and data encryption programs.<br>
 • Perform penetration testing / vulnerability assessments and fix detected vulnerabilities to maintain a high security standard.<br><br>
-<b><u>MS Automated Operations Engineer</u></b>
-ERICSSON RWANDA [ 01/11/2021 – 31/03/2023 ]<br><br>
+<b><u>MS Automated Operations Engineer</u></b> - ERICSSON RWANDA [ 01/11/2021 – 31/03/2023 ]<br><br>
 • Responsible for managing and monitoring the network outages, by ensuring timely detection of any fault occurring.<br>
 • Perform day-to-day Network Operations procedures within the network nodes. <br>
 • Provided user trainings and IT support. Made escalations, follow up to make sure issues/tickets are resolved within SLA agreement. <br>
 • Attend to incoming calls through NOC Support lines and offer support to the field engineers during their actions <br>
 • Basic troubleshooting and initial configuration of network devices. <br><br>
-<b><u>ICT network engineer</u></b>
-MTN Rwanda [ 25/09/2020 – 31/10/2021 ] <br><br>
+<b><u>ICT network engineer</u></b> - MTN Rwanda [ 25/09/2020 – 31/10/2021 ] <br><br>
 • Using Network management tools to manage and monitor network outages, by ensuring timely detection of any fault
 occurring and perform constant health checks, day-to-day Network Operations procedures within the network nodes.<br><br>
 
