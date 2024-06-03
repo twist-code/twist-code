@@ -16,7 +16,7 @@ As a dedicated and detail-oriented cybersecurity professional with a strong foun
 - <b>Automation (Patch management, Updates, and Processess)</b>
   - [Ansible](https://github.com/twist-code/ansible/blob/main/README.md) 
 - <b>Penetration testing</b>
-  - [MITM Attack with ettercap](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [MITM Attack with ettercap](https://github.com/twist-code/Ettercap/blob/main/README.md)
   - [BeEF: Browser Exploitation framework](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Hacking Metasploitable](https://github.com/joshmadakor1/AD_PS)
 - <b>Security Operations Center</b>
