@@ -29,14 +29,14 @@ As a dedicated and detail-oriented cybersecurity professional with a strong foun
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | DNS & IP Addressing Understanding      | <a href="https://github.com/twist-code/Pi-Hole/blob/main/README.md">Pi-Hole</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Ad Blocking and Command-Line Proficiency         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Malware and Phishing Prevention                 | Pi-Hole|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Session Hijacking and Traffic Injection | <a href="https://github.com/twist-code/Ettercap/blob/main/README.md">MITM With ettercap</a>|
+| Ad Blocking and Command-Line Proficiency         | Pi-Hole|
+| ARP Spoofing/Poisoning and SSL/TLS Interception      | MITM With ettercap|
+| Packet Manipulation and DNS Spoofing                | MITM With ettercap|
+| Configuration management and System Administration | Ansible|
+| Application Deployment and provisioning     | Ansible|
 | Planning and Execution                 | Pi-Hole|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Credential Harvesting | MITM With ettercap|
 
 ## WORK EXPERIENCE
 <b><u>Professional in charge of Cybersecurity</u></b> - RRA (Rwanda Revenue Authority [ 20/08/2023 - Current ]<br> <br>
