@@ -20,8 +20,8 @@ As a dedicated and detail-oriented cybersecurity professional with a strong foun
   - [BeEF: Browser Exploitation framework](https://github.com/twist-code/BeEF-Browser-Exploitation-framework/blob/main/README.md)
   - [Hacking Metasploitable](https://github.com/twist-code/Metasploitable/edit/main/README.md)
 - <b>Security Operations Center</b>
-  - [SOC Automation Lab (Ongoing)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Malware detection](https://github.com/joshmadakor1/DecrypterPOC)
+  - [SOC Automation Lab (Ongoing)]()
+  - [Malware detection]()
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
