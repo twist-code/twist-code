@@ -35,8 +35,11 @@ As a dedicated and detail-oriented cybersecurity professional with a strong foun
 | Packet Manipulation and DNS Spoofing                | <a href="https://github.com/twist-code/Ettercap/blob/main/README.md">MITM With ettercap</a>|
 | Configuration management and System Administration | <a href="https://github.com/twist-code/ansible/blob/main/README.md">Ansible</a>|
 | Application Deployment and provisioning     | <a href="https://github.com/twist-code/ansible/blob/main/README.md">Ansible</a>|
-| Password carcking                | <a href="https://github.com/twist-code/Metasploitable">Hacking Metasploitable</a>|
+| Password carcking                | <a href="https://github.com/twist-code/Metasploitable/blob/main/README.md">Hacking Metasploitable</a>|
 | Credential Harvesting | <a href="https://github.com/twist-code/Ettercap/blob/main/README.md">MITM With ettercap</a>|
+| Web Application testing               | <a href="https://github.com/twist-code/Metasploitable/blob/main/README.md">Hacking Metasploitable</a>|
+| Vulnerability Identification              | <a href="https://github.com/twist-code/Metasploitable/blob/main/README.md">Hacking Metasploitable</a>|
+| Network Scanning and Enumeration            | <a href="https://github.com/twist-code/Metasploitable/blob/main/README.md">Hacking Metasploitable</a>|
 
 ## WORK EXPERIENCE
 <b><u>Professional in charge of Cybersecurity</u></b> - RRA (Rwanda Revenue Authority [ 20/08/2023 - Current ]<br> <br>
