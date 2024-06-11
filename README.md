@@ -31,14 +31,14 @@ As a dedicated and detail-oriented cybersecurity professional with a strong foun
 | DNS & IP Addressing Understanding      | <a href="https://github.com/twist-code/Pi-Hole/blob/main/README.md">Pi-Hole</a>|
 | Session Hijacking and Traffic Injection | <a href="https://github.com/twist-code/Ettercap/blob/main/README.md">MITM With ettercap</a>|
 | Ad Blocking and Command-Line Proficiency         | <a href="https://github.com/twist-code/Pi-Hole/blob/main/README.md">Pi-Hole|
+| Vulnerability Identification              | <a href="https://github.com/twist-code/Metasploitable/blob/main/README.md">Hacking Metasploitable</a>|
 | ARP Spoofing/Poisoning and SSL/TLS Interception      | <a href="https://github.com/twist-code/Ettercap/blob/main/README.md">MITM With ettercap</a>|
+| Web Application testing               | <a href="https://github.com/twist-code/Metasploitable/blob/main/README.md">Hacking Metasploitable</a>|
 | Packet Manipulation and DNS Spoofing                | <a href="https://github.com/twist-code/Ettercap/blob/main/README.md">MITM With ettercap</a>|
 | Configuration management and System Administration | <a href="https://github.com/twist-code/ansible/blob/main/README.md">Ansible</a>|
 | Application Deployment and provisioning     | <a href="https://github.com/twist-code/ansible/blob/main/README.md">Ansible</a>|
 | Password carcking                | <a href="https://github.com/twist-code/Metasploitable/blob/main/README.md">Hacking Metasploitable</a>|
 | Credential Harvesting | <a href="https://github.com/twist-code/Ettercap/blob/main/README.md">MITM With ettercap</a>|
-| Web Application testing               | <a href="https://github.com/twist-code/Metasploitable/blob/main/README.md">Hacking Metasploitable</a>|
-| Vulnerability Identification              | <a href="https://github.com/twist-code/Metasploitable/blob/main/README.md">Hacking Metasploitable</a>|
 | Network Scanning and Enumeration            | <a href="https://github.com/twist-code/Metasploitable/blob/main/README.md">Hacking Metasploitable</a>|
 
 ## WORK EXPERIENCE
