@@ -30,13 +30,13 @@ As a dedicated and detail-oriented cybersecurity professional with a strong foun
 |-----------------------------------------------|----------------------------|
 | DNS & IP Addressing Understanding      | <a href="https://github.com/twist-code/Pi-Hole/blob/main/README.md">Pi-Hole</a>|
 | Session Hijacking and Traffic Injection | <a href="https://github.com/twist-code/Ettercap/blob/main/README.md">MITM With ettercap</a>|
-| Ad Blocking and Command-Line Proficiency         | Pi-Hole|
-| ARP Spoofing/Poisoning and SSL/TLS Interception      | MITM With ettercap|
-| Packet Manipulation and DNS Spoofing                | MITM With ettercap|
-| Configuration management and System Administration | Ansible|
-| Application Deployment and provisioning     | Ansible|
-| Planning and Execution                 | Pi-Hole|
-| Credential Harvesting | MITM With ettercap|
+| Ad Blocking and Command-Line Proficiency         | <a href="https://github.com/twist-code/Pi-Hole/blob/main/README.md">Pi-Hole|
+| ARP Spoofing/Poisoning and SSL/TLS Interception      | <a href="https://github.com/twist-code/Ettercap/blob/main/README.md">MITM With ettercap</a>|
+| Packet Manipulation and DNS Spoofing                | <a href="https://github.com/twist-code/Ettercap/blob/main/README.md">MITM With ettercap</a>|
+| Configuration management and System Administration | <a href="https://github.com/twist-code/ansible/blob/main/README.md">Ansible</a>|
+| Application Deployment and provisioning     | <a href="https://github.com/twist-code/ansible/blob/main/README.md">Ansible</a>|
+| Password carcking                | <a href="https://github.com/twist-code/Metasploitable">Hacking Metasploitable</a>|
+| Credential Harvesting | <a href="https://github.com/twist-code/Ettercap/blob/main/README.md">MITM With ettercap</a>|
 
 ## WORK EXPERIENCE
 <b><u>Professional in charge of Cybersecurity</u></b> - RRA (Rwanda Revenue Authority [ 20/08/2023 - Current ]<br> <br>
