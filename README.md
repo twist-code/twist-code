@@ -7,7 +7,7 @@ I am a dedicated and highly skilled cybersecurity specialist from Rwanda. With a
 
 ## Objective
 
-As a dedicated and detail-oriented cybersecurity professional with a strong foundation in network security, ethical hacking, and incident response, I aim to leverage my skills and experience as a SOC Analyst. My goal is to contribute to a resilient and secure IT environment, continuously improving threat detection and response capabilities.
+As a detail-oriented cybersecurity professional with a strong foundation in network security, ethical hacking, and incident response, I aim to leverage my skills and experience as a SOC Analyst. My goal is to contribute to a resilient and secure IT environment, continuously improving threat detection and response capabilities.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
