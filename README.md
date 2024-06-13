@@ -14,6 +14,7 @@ As a detail-oriented cybersecurity professional with a strong foundation in netw
 - <b>DNS Requests logging and filtering</b>
   - [Pi-Hole](https://github.com/twist-code/Pi-Hole/blob/main/README.md)
 - <b>Automation (Patch management, Updates, and Processess)</b>
+  - [Spiderfoot (OSINT)]()
   - [Ansible](https://github.com/twist-code/ansible/blob/main/README.md) 
 - <b>Penetration testing</b>
   - [MITM Attack with ettercap](https://github.com/twist-code/Ettercap/blob/main/README.md)
@@ -21,7 +22,7 @@ As a detail-oriented cybersecurity professional with a strong foundation in netw
   - [Hacking Metasploitable](https://github.com/twist-code/Metasploitable/edit/main/README.md)
 - <b>Security Operations Center</b>
   - [SOC Automation Lab (Ongoing)]()
-  - [Malware detection]()
+  - [Malware Analysis]()
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
