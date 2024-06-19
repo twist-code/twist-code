@@ -1,3 +1,5 @@
+<HTML>
+  
 <head>
   <meta name="google-site-verification" content="wqipuUIrI4rYeAvyRxbM7S3254N_m6Ng4mBQ-QqTus8" />
   <title>Nick Tresor IRADUKUNDA</title>
