@@ -20,7 +20,7 @@ As a detail-oriented cybersecurity professional with a strong foundation in netw
 - <b>DNS Requests logging and filtering</b>
   - [Pi-Hole](https://github.com/twist-code/Pi-Hole/blob/main/README.md)
 - <b>Automation (Patch management, Updates, and Processess)</b>
-  - [Spiderfoot (OSINT)]()
+  - [Spiderfoot (OSINT)](https://github.com/twist-code/Spiderfoot/blob/main/README.md)
   - [Ansible](https://github.com/twist-code/ansible/blob/main/README.md) 
 - <b>Penetration testing</b>
   - [MITM Attack with ettercap](https://github.com/twist-code/Ettercap/blob/main/README.md)
