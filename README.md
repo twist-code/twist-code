@@ -31,7 +31,6 @@ As a detail-oriented cybersecurity professional with a strong foundation in netw
   - [Malware Analysis]()
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
